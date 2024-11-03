@@ -21,5 +21,5 @@
 
 git clone https://github.com/muink/luci-app-dnsproxy package/luci-app-dnsproxy
 
-git clone https://github.com/dahisea/Openwrt-BBR.git package
+git clone https://github.com/dahisea/Openwrt-BBR.git package/bbrmod
 
